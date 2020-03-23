@@ -21,6 +21,10 @@ Ways of working :
 
 5. Please put in the credentials you want to work in index.php on lines 8 and 9 (by default, they are administrator:password)
 
+6. If you are having issues with logging, please run 'chmod 777 hits.log' to make sure that you can write to the hits.log file.
+
+7. Any other issues please contact me on Instagram @qolhf.xyz or email symphannysec@protonmail.com
+
 GLHF!
 
 
