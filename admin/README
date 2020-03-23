@@ -1,0 +1,26 @@
+=================================================================
+
+Symphanny Admin Web-Based Honeypot 
+
+Created by Yukinoshita47 of Bitosi Hacking Lab ( Remade by qolhf (SYMPHANNY )
+
+=================================================================
+
+
+Fake Admin Honeypot Panel are traps for hackers who want to hack your site is suitable for the web site administrator who wants to secure his website:
+
+Ways of working :
+
+1. Hackers will try to login to your site by using the default admin password or bypass injection
+
+2. IP Address Hacker will be detected and recorded in hits.log (/var/www/html/admin/hits.log)
+
+3. If they do ever get in, downloads are spammed to their system and break browsers like Firefox, Opera, Android Browsers etc..
+
+4. Please perform tests with it first on a local machine to make sure you have no issues, and then put it on the internet.
+
+5. Please put in the credentials you want to work in index.php on lines 8 and 9 (by default, they are administrator:password)
+
+GLHF!
+
+
