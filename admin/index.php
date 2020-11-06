@@ -127,7 +127,7 @@ else if ($_GET['error'] == 2) { echo '<div class="success">Incorrect Login!</div
 </div>
 </div>
 </form>
-<div class="footer"> SYMPHANNY ADMINISTRATOR PANEL </div>
+<div class="footer"> ADMINISTRATOR PANEL </div>
 </body>
  
 
