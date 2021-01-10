@@ -1,8 +1,8 @@
 =================================================================
 
-Symphanny Admin Web-Based Honeypot 
+Admin Web-Based Honeypot 
 
-Created by Yukinoshita47 of Bitosi Hacking Lab ( Remade by qolhf (SYMPHANNY )
+Created by Yukinoshita47 of Bitosi Hacking Lab, remade by cypress
 
 =================================================================
 
@@ -23,7 +23,7 @@ Ways of working :
 
 6. If you are having issues with logging, please run 'chmod 777 hits.log' to make sure that you can write to the hits.log file.
 
-7. Any other issues please contact me on Instagram @qolhf.xyz or email symphannysec@protonmail.com
+7. Any other issues please contact me
 
 GLHF!
 
